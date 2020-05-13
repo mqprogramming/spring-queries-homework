@@ -1,0 +1,6 @@
+2020-05-13 19:08:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "DISTILLERIES" not found; SQL statement:
+SELECT * from distilleries [42102-197]
+2020-05-13 19:37:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "WHISKIES" not found; SQL statement:
+SELECT * from whiskies [42102-197]
